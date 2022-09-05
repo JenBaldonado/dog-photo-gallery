@@ -19,12 +19,15 @@ body {
 
 .gallery {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
+    background-color: green;
     position: absolute;
     padding-top: 10px;
-    
+    gap: 16px;
+   
 
 
 }
@@ -34,5 +37,7 @@ body {
     max-width: 350px;
     height: 300px;
     border-radius: 10px;
+    object-fit: cover;
+   
 
 }
