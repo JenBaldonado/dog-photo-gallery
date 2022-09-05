@@ -17,6 +17,7 @@ body {
     border-bottom: 4px solid #000040;
 }
 
+/* Fex Container*/
 .gallery {
     display: flex;
     flex-direction: row;
@@ -24,7 +25,7 @@ body {
     justify-content: center;
     align-items: center;
     /* background-color: green; */
-    position: absolute;
+    /* position: absolute; */
     padding: 20px 10px;
     max-width: 1400px;
     margin: 0 auto;
@@ -34,6 +35,8 @@ body {
 
 }
 
+
+/*Flex Items*/
 .gallery img{
     width: 100%;
     max-width: 350px;
