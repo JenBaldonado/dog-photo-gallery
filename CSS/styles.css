@@ -30,9 +30,6 @@ body {
     max-width: 1400px;
     margin: 0 auto;
     gap: 16px;
-   
-
-
 }
 
 
@@ -43,6 +40,4 @@ body {
     height: 300px;
     border-radius: 10px;
     object-fit: cover;
-   
-
 }
