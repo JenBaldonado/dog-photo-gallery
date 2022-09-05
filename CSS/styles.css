@@ -23,7 +23,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: green;
+    /* background-color: green; */
     position: absolute;
     padding: 20px 10px;
     max-width: 1400px;
